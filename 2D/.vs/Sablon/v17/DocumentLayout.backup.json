@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Racunarska grafika\\Projekti\\2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|D:\\Racunarska grafika\\Projekti\\2D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|D:\\Racunarska grafika\\Projekti\\2D\\settings.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC504904-6D9A-4E9B-8926-2B453C6C69B4}|Sablon.vcxproj|solutionrelative:settings.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.frag",
+              "DocumentMoniker": "D:\\Racunarska grafika\\Projekti\\2D\\settings.frag",
+              "RelativeDocumentMoniker": "settings.frag",
+              "ToolTip": "D:\\Racunarska grafika\\Projekti\\2D\\settings.frag",
+              "RelativeToolTip": "settings.frag",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-03T17:43:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Racunarska grafika\\Projekti\\2D\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Racunarska grafika\\Projekti\\2D\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAFMBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:04:52.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

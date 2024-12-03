@@ -1,0 +1,86 @@
+﻿  main.cpp
+D:\Racunarska grafika\Projekti\2D\main.cpp(33,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(34,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(93,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(93,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(94,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(94,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(95,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(95,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(96,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(96,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(103,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(108,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(109,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(110,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(111,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(122,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(123,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(128,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(128,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(129,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(129,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(130,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(131,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(133,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(133,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(134,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(134,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(135,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(136,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(150,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(151,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(161,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(162,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(166,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(167,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(171,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(172,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(176,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(177,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(185,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(185,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(186,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(187,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(190,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(190,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(191,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(191,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(192,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(193,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(195,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(195,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(196,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(196,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(197,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(198,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(200,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(200,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(201,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(201,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(202,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(203,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(205,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(206,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(206,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(208,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(428,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(458,23): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(462,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(467,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(471,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(492,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(494,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(499,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(501,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(507,31): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(510,31): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Racunarska grafika\Projekti\2D\main.cpp(526,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Racunarska grafika\Projekti\2D\main.cpp(526,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Racunarska grafika\Projekti\2D\main.cpp(526,22): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Racunarska grafika\Projekti\2D\main.cpp(550,80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Racunarska grafika\Projekti\2D\main.cpp(580,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(694,127): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(694,102): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Racunarska grafika\Projekti\2D\main.cpp(694,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Sablon.vcxproj -> D:\Racunarska grafika\Projekti\2D\x64\Debug\Sablon.exe
