@@ -1,0 +1,85 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio folders
+.vs/
+**/.vs/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Auto-generated files
+*.ipch
+*.aps
+*.ncb
+*.opt
+*.plg
+*.cache
+*.ilk
+*.iobj
+*.pch
+*.pdb
+*.idb
+
+# Crash reports and logs
+*.log
+
+# TFS
+$tf/
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# DotCover
+*.dcvr
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+NCrunchTemp_*/
+
+# Rider IDE
+.idea/
+
+# Windows image cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Windows shortcuts
+*.lnk
+
+# Git directories
+*.orig
+
+# Local history
+.history/
+
+# JetBrains Rider settings
+.idea/
